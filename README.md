@@ -1,4 +1,4 @@
- <h1 align="center"> Olá sou Sidiney, estudante de desenvolvimento Web!</h1>
+ <h1 align="center"> Olá sou Sidiney</h1>
 <div align="center">
   <a href="https://github.com/sidneyos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidneyos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
